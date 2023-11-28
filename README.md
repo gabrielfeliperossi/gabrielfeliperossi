@@ -9,3 +9,4 @@
   ![.](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
   ![.](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
   ![.](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+  ![.](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
